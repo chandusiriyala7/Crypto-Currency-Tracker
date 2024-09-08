@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.currency-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.currency-name {
+  display: flex;
+}
+.currency-value {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+p {
+  margin: 0px 30px;
+}
+.currency-logo {
+  height: 30px;
+}
